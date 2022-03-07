@@ -8,7 +8,7 @@ public class ndala {
 	  paulo f = new paulo();
 	  f.nome = "paulo";
 	  f.salario();
-	  f.idSalario = 12;
+	  f.idSalario = 13;
 	  System.out.println(f.nome);
 	  System.out.println(f.salario());
 	}
